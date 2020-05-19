@@ -3,6 +3,9 @@ DerivedDataCache
 Intermediate
 Saved
 Content/StarterContent
+Content/FirstPerson
+Content/FirstPersonBP
+Content/Geometry
 .vscode
 .vs
 *.VC.db
